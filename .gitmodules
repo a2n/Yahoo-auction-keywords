@@ -1,0 +1,3 @@
+[submodule "libs/underscorejs"]
+	path = libs/underscorejs
+	url = git://github.com/documentcloud/underscore.git
